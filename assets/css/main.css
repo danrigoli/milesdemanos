@@ -556,11 +556,11 @@ header
 }
 
 .header-area.header-sticky {
-  min-height: 80px;
+  min-height: 70px;
 }
 
 .header-area.header-sticky .nav {
-  margin-top: 40px !important;
+  margin-top: 25px !important;
 }
 
 .header-area.header-sticky .nav li a.active {
